@@ -39,7 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   width: 150,
                   child: TextField(
                     controller: _cityTextController,
-                    decoration: const InputDecoration(labelText: 'City'),
+                    decoration: const InputDecoration(labelText: 'Type City'),
                     textAlign: TextAlign.center,
                   ),
                 ),
